@@ -1,5 +1,5 @@
 # Paladins-Code-Grabber
-Skin Code Grabber for Paladins, uses AutoIt Library.
+Skin Code Grabber for Paladins, uses AutoIt Library.  
 Install AutoItScript from www.autoitscript.com  
 How to use:  
 Copy the code from "Facebook", "Twitch" or from "Youtube".  
