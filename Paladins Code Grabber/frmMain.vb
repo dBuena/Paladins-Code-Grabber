@@ -7,13 +7,6 @@ Public Class frmMain
 
     Dim mousehotkey As Boolean
     Dim a As New AutoItX3
-    Private Sub tmrHotkey_Tick(sender As Object, e As EventArgs) Handles tmrHotkey.Tick
-        mousehotkey = GetAsyncKeyState(Keys.RButton)
-        If mousehotkey = True Then
-            a.Send(lblClipboard.Text)
-            My.Computer.Clipboard.Clear()
-        End If
-    End Sub
 
     Private Sub tmrCheckClipboard_Tick(sender As Object, e As EventArgs) Handles tmrCheckClipboard.Tick
         lblClipboard.Text = My.Computer.Clipboard.GetText()
