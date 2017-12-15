@@ -1,0 +1,12 @@
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\bin\Debug\Paladins Code Grabber.exe.config
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\bin\Debug\Paladins Code Grabber.exe
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\bin\Debug\Paladins Code Grabber.pdb
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\bin\Debug\Paladins Code Grabber.xml
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\obj\Debug\Paladins_Code_Grabber.Resources.resources
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\obj\Debug\Paladins Code Grabber.vbproj.GenerateResource.Cache
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\obj\Debug\Paladins Code Grabber.exe
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\obj\Debug\Paladins Code Grabber.xml
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\obj\Debug\Paladins Code Grabber.pdb
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\obj\Debug\Interop.AutoItX3Lib.dll
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\obj\Debug\Paladins Code Grabber.vbproj.ResolveComReference.cache
+D:\Installer\Documents\Visual Studio 2013\Projects\Paladins Code Grabber\Paladins Code Grabber\obj\Debug\Paladins_Code_Grabber.frmMain.resources
